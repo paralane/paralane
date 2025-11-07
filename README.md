@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 interests:<br>biochem<br>engineering<br>jazz theory<br>music performance<br>3d printing<br>sewing
 
